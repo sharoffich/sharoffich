@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <p style="text-align: center;">
+    <p style="text-align: center;" dit="auto">
         <samp>
             <a href="http://sharoffich.ru" rel="nofollow">me</a>
             .
@@ -14,7 +14,7 @@
             <a href="https://www.instagram.com/sharoffich" rel="nofollow">instagram</a>
         </samp>
     </p>
-    <p dit="auto">Привет, Я Кирилл!</p>
+    <p dit="auto">Привет, Я Кирилл!</p>,k
     <p dit="auto">Я начинающий Frontend разработчик</p>
 </body>
 </html>
