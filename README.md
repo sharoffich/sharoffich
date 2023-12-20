@@ -7,7 +7,7 @@
 <body>
     <p align="center">
         <samp>
-            <a="http://sharoffich.ru" rel="nofollow">me</a>
+            <a href="http://sharoffich.ru" rel="nofollow">me</a>
             .
             <a href="https://t.me/sharoffich" rel="nofollow">telegram</a>
             .
